@@ -11,12 +11,7 @@ const PORT = process.env.PORT || 3001
 const hbs = exphbs.create({ helpers })
 const sess = {
   secret: 'nerd side secret',
-  cookie: {
-    maxAge: 3600,
-    httpOnly: true,
-    secure: false,
-    sameSite: 'strict'
-  },
+  cookie: {},
   resave: false,
   saveUninitialized: true,
   store: new SequelizeStore({
