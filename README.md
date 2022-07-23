@@ -1,5 +1,4 @@
  # MVC Tech Blog
- **STILL A WORK IN PROGRESS**
  
  ## Sample
 ![sample](https://user-images.githubusercontent.com/105169042/180620583-df7cc1e6-780b-444f-a979-dbebf87d6c9a.png)
