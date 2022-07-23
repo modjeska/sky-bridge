@@ -22,7 +22,7 @@
   - Create blog posts.
   
 ## [Deployment](#deployment)
-Pending deployement.
+[Heroku](https://sky-bridge.herokuapp.com/)
 
 ## [Installation](#table-of-contents)
   <b>To install the program (node.js required):</b>
